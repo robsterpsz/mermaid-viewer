@@ -1,0 +1,17 @@
+{
+  "name": "mermaid-viewer",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "keywords": ["mermaid", "diagrams", "react", "typescript", "editor", "visualization"],
+  "homepage": "https://github.com/robsterpsz/mermaid-viewer#readme",
+  "license": "MIT",
+  "description": "A React + TypeScript application for editing and visualizing Mermaid diagrams",
+  "author": "robsterpsz",
+  "repository": "https://github.com/robsterpsz/mermaid-viewer",
+  "engines": {"node": ">=18.0.0"},
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}
